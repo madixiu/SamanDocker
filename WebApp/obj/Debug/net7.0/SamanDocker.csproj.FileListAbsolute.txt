@@ -1,0 +1,8 @@
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.csproj.AssemblyReference.cache
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.AssemblyInfoInputs.cache
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.AssemblyInfo.cs
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.csproj.CoreCompileInputs.cache
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.MvcApplicationPartsAssemblyInfo.cache
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.RazorAssemblyInfo.cache
+/home/mahdi/Desktop/SamanDocker/WebApp/obj/Debug/net7.0/SamanDocker.RazorAssemblyInfo.cs
