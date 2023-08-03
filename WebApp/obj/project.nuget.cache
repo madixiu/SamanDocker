@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7Svnh2soX5d1vcOvjW0wWFszfVX0iyjHX16QresDsKk0HHbhuH10CZOE0bSbsXvCSPnTn3TzeEmowGn3kq0Yg==",
+  "dgSpecHash": "qBvk1wOgjwULZZrp3aPMj2cbDhjxAsR2tAXn7hh7u4Az/ZE8IxR0qzY6DOGDn8zcpNZolZR/pryl/DYVOkH90A==",
   "success": true,
   "projectFilePath": "/home/mahdi/Desktop/SamanDocker/WebApp/SamanDocker.csproj",
-  "expectedPackageFiles": [
-    "/home/mahdi/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

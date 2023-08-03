@@ -1,1 +1,3 @@
 WebApiEntityFrameworkDockerSqlServer/
+WebApp/bin
+WebApp/obj
